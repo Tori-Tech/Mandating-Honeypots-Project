@@ -30,7 +30,8 @@ Currently, there are three phases to this project:
 ### Notice:
 The objectives and deliverables of to-be-decided (TBD) phases are subject to change.
 
-### Disclaimer: All code included in the project is tested exclusively within a virtualized environment that exists on hardware owned by the researcher, and exists purely for educational purposes. All information used in the creation of the project was gathered from publically available sources. The researcher and all associated projects operate expressly under good faith and a genuine desire to educate. The researcher does not condone unauthorized access, modification, or general tampering with any systems without express permission.  
+### Disclaimer: 
+All code included in the project is tested exclusively within a virtualized environment that exists on hardware owned by the researcher, and exists purely for educational purposes. All information used in the creation of the project was gathered from publically available sources. The researcher and all associated projects operate expressly under good faith and a genuine desire to educate. The researcher does not condone unauthorized access, modification, or general tampering with any systems without express permission.  
 
 ### Licensing
 - **Code:** Licensed under the [MIT License](LICENSE).
