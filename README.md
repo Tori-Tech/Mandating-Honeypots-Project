@@ -8,7 +8,7 @@ Currently, there are three phases to this project:
 * **Objective:** Analyze the systemic risks of centralized Digital ID systems.
 * **Deliverables:**
     * **Position Paper:** ["Mandating Honeypots: How Digital ID Verification Poses More Threats Than It Prevents, And How ZKPs Can Offer A Solution."](papers/Phase1/README.md)
-    * **Scope:** An analysis of the California Digital Age Assurance Act and the federal Parents Decide Act, offering case studies on recent data breaches and a solution found in Schnorr-based ZKPs.
+    * **Scope:** An analysis of recent age-verification mandating laws such as the Parents Decide Act and the California Digital Assurance Act, explaining the inherent risks and offering a solution found in Schnorr-based ZKPs.
     * **Alternative:** Proposing Zero-Knowledge Proofs (ZKPs) as a privacy-preserving "last resort" for verification, should it become required by law.
 
 ---
