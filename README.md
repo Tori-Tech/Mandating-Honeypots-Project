@@ -4,7 +4,7 @@ This is the Mandating Honeypots Project, a repository which contains audits of d
 
 Currently, there are three phases to this project:
 
-### Phase 1 (Current)
+### Phase 1 (Finished)
 * **Objective:** Analyze the systemic risks of centralized Digital ID systems.
 * **Deliverables:**
     * **Position Paper:** ["Mandating Honeypots: How Digital ID Verification Poses More Threats Than It Prevents, And How ZKPs Can Offer A Solution."](papers/Phase1/README.md)
@@ -13,10 +13,10 @@ Currently, there are three phases to this project:
 
 ---
 
-### Phase 2 (TBD)
+### Phase 2 (Current)
 * **Objective:** Demonstrate the inherent insecurity of client-side age verification through system-level spoofing.
 * **Deliverables:**
-    * **Python PoC:** A script that intercepts `dbus` messages to return a persistent `18+` response.
+    * **Python PoC:** [A script](proof-of-concepts/Phase2/README.md) that intercepts `dbus` messages to return a response determined by the user's inputs, as well as a script that acts as an application querying the `dbus` to "verify" the user's age.
     * **Purpose:** To demonstrate that localized verification can be easily bypassed or manipulated by the end-user.
 ---
 
