@@ -1,0 +1,8 @@
+#D-Bus high level wrapper
+pydbus==0.6.0
+
+#Python bindings for GLib (required for the main loop)
+PyGObject==3.50.0
+
+
+
