@@ -4,7 +4,6 @@ from gi.repository import GLib
 #This function gets the user's age from command-line input. Sure, you could lie about your age and just choose the 18+ bracket, but this is for the sake of demonstrations; we'll be implementing a fix for this that lets parents verify their children's ages while preventing the children from tampering with the utility. Just trust the process for now.
 def get_age_bracket():
     print("Choose your age bracket.\n")
-    print("Choose your age bracket.\n")
     print("If you are under 13, press 1. \n")
     print("If you are 13-15, press 2.\n")
     print("If you are 16-17, press 3. \n")
