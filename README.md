@@ -1,6 +1,8 @@
 # Mandating-Honeypots-Project
 
-This is the Mandating Honeypots Project, a repository that contains audits of digital identity verification systems, related position papers, and POCs that simultaneously identify vulnerabilities and offer decentralized, privacy-preserving solutions. The project was deemed "finished" on 5/6/26.
+As laws like the Parents Decide Act (H.R.8250) and California's Digital Age Assurance Act (Assembly Bill 1043) move through legislative bodies, privacy, anonymity, and data security becomes laden with systemic threats and new security architecture with unexamined attack surfaces. If passed, such legislation would quite literally mandate the existence of honeypots for determined attackers by demanding sensitive information (such as a government-issued ID) from anyone who wishes to use a computer. This not only endangers the very minors these laws claim to protect, but also provides a very clear attack surface: compromise the databases that house those digital IDs, and you will have suddenly stolen a thousand new identities.
+
+The Mandating Honeypots Project seeks to prove that invasive ID verification is not the only solution. It will do so by posting audits of digital identity verification systems, related position papers, POCs, and prototype applications that simultaneously identify vulnerabilities and offer decentralized, privacy-preserving solutions. This project, designed to demonstrate vulnerabilities within Linux D-Buses (an integral part of the California Digital Age Assurance Act) was deemed "finished" on 5/6/26. With the recent introduction of the SCREEN Act, more specialized research is likely to follow. 
 
 There are three phases to this project:
 
