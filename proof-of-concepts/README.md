@@ -3,7 +3,7 @@ This portion of the repository houses the POCs, scripts, and any other technical
 ## Phase 1: Cryptographic Alternatives (As A Last Resort)
 
 
-- [age_verification_ZKP.py](Phase1/age_verification_ZKP.py) A Python implementation that demonstrates a Zero_Knowledge approach to age verification, ensuring compliance without exposing raw data.
+- [age_verification_ZKP.py](Phase1/age_verification_ZKP.py) A Python implementation that demonstrates a Zero-Knowledge approach to age verification, ensuring compliance without exposing raw data.
  - [associated paper](../papers/Phase1/README.md) A position paper outlining the security threats imposed by digital ID mandates, which also discusses the usage of Zero-Knowledge Proofs if a non-invasive approach is deemed impossible.
 
 ## Phase 2: Vulnerability Demonstration (D-Bus Spoofing)
